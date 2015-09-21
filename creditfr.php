@@ -35,7 +35,7 @@ class Creditfr extends Module
 	{
 		$this->name = 'creditfr';
 		$this->tab = 'others';
-		$this->version = '1.0.0';
+		$this->version = '1.0.1';
 		$this->author = 'PrestaShop';
 
 		$this->bootstrap = true;
