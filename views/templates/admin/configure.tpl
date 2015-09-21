@@ -29,7 +29,7 @@
 			<img src="{$module_dir|escape:'html':'UTF-8'}views/img/creditfr.png" />
 		</div>
 		<div class="col-xs-7 text-left">
-			<h4>{l s='PrestaShop Official hosting partner' mod='creditfr'}</h4>
+			<h4>{l s='PrestaShop\'s official participatory financing platform' mod='creditfr'}</h4>
 		</div>
 	</div>
 
