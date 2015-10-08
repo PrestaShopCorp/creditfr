@@ -57,7 +57,7 @@
 				<br />
 				<p class="text-center">
 					<strong>
-						<a href="http://bit.ly/1NskmZU" target="_blank" title="Start now with credit.fr">
+						<a href="http://bit.ly/1MZpxRH" target="_blank" title="Start now with credit.fr">
 							{l s='Request a loan' mod='creditfr' }
 						</a>
 					</strong>
