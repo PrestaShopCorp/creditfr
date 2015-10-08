@@ -2,7 +2,7 @@
         <module>
             <name>creditfr</name>
             <displayName><![CDATA[Crédit.fr]]></displayName>
-            <version><![CDATA[1.0.1]]></version>
+            <version><![CDATA[1.0.2]]></version>
             <description><![CDATA[The participatory financing platform for SMBs]]></description>
             <author><![CDATA[PrestaShop]]></author>
             <tab><![CDATA[others]]></tab>
